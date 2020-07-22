@@ -1,0 +1,2 @@
+# teknolog
+Powered by PRSS
